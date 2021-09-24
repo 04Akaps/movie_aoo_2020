@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+기본적으로 홈페이지가 필요하다.
+
+그후 script에 deploy와 predeploy를 추가해 주어야 하는데
+deploy는 build한 것을 가져오고 default값으로 predeploy를 실행시키게 된다.
+
+즉 predeploy를 먼저 실행시키고 deploy를 실행시킨다.
+
+코드를 보면 predeploy를 통해서 build를 하였고 그후 deploy에서 build폴더를 upload하는 작업을 진행하게 된다.
