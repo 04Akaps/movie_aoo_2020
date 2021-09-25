@@ -6,14 +6,13 @@ import Home from "./routers/Home";
 const App = () => {
   return (
     <BrowserRouter>
-      <Navigation />
+      {/* <Navigation /> */}
+
       <Switch>
         <Route exact path="/">
           <Home />
         </Route>
-        <Route path="/detail/:id">
-          <Detail />
-        </Route>
+        <Route path="/detail/:id" component={Detail} />
       </Switch>
     </BrowserRouter>
   );
