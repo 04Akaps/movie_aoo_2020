@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/movie_aoo_2020/static/css/main.328d342d.chunk.css",
-    "main.js": "/movie_aoo_2020/static/js/main.c5fe826b.chunk.js",
-    "main.js.map": "/movie_aoo_2020/static/js/main.c5fe826b.chunk.js.map",
+    "main.js": "/movie_aoo_2020/static/js/main.bc2e72be.chunk.js",
+    "main.js.map": "/movie_aoo_2020/static/js/main.bc2e72be.chunk.js.map",
     "runtime-main.js": "/movie_aoo_2020/static/js/runtime-main.48980426.js",
     "runtime-main.js.map": "/movie_aoo_2020/static/js/runtime-main.48980426.js.map",
     "static/js/2.583b69b2.chunk.js": "/movie_aoo_2020/static/js/2.583b69b2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.48980426.js",
     "static/js/2.583b69b2.chunk.js",
     "static/css/main.328d342d.chunk.css",
-    "static/js/main.c5fe826b.chunk.js"
+    "static/js/main.bc2e72be.chunk.js"
   ]
 }
